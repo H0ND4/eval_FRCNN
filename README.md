@@ -14,7 +14,7 @@ python pascalvoc_metrics.py \
     --output <出力するディレクトリ>
 ```
 
-↑ 個人的に固定化したのでフォルダ構成を合わせろ
+↑ 個人的に固定化したのでフォルダ構成を合わせる
 detectionsフォルダ：推定結果txtを置く
 groundtruth：：GTのtxtを置く
 outputフォルダ:
