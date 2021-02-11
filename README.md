@@ -15,9 +15,10 @@ python pascalvoc_metrics.py \
 ```
 
 ↑ 個人的に固定化したのでフォルダ構成を合わせる
+
 detectionsフォルダ：推定結果txtを置く
 groundtruth：：GTのtxtを置く
-outputフォルダ:
+outputフォルダ: 結果が保存される
 
 
 `--gt_format`、`--det_format` は矩形の表現形式を指定します。
